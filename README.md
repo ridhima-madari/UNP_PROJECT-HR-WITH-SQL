@@ -25,6 +25,6 @@ Top Performing Departments.
 Average Performance Rating.
 
 
-PDF FILE LINK :https://drive.google.com/file/d/1Gaf-0VvWI4U-D9THZIPU5RnfYopYL_Bp/view?usp=drive_link
+PDF FILE LINK :https://drive.google.com/file/d/1Gaf-0VvWI4U-D9THZIPU5RnfYopYL_Bp/view?usp=sharing
 
 SQL FILE LINK: https://drive.google.com/file/d/1EciN6dSwOs5KGT6rfJPJxPlggcVyIl4g/view?usp=drive_link
